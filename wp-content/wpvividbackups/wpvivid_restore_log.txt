@@ -1,0 +1,85 @@
+Log created: 2022-01-11 21:20:20
+Type: restore
+[2022-01-11 21:20:20][notice]init restore data
+[2022-01-11 21:20:20][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_all.zip
+[2022-01-11 21:20:20][notice]extract root:D:\OpenServer\domains\auto/wp-content\wpvividbackups\
+[2022-01-11 21:20:20][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_all.zip
+[2022-01-11 21:20:20][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_all.zip
+[2022-01-11 21:20:20][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_all.zip
+[2022-01-11 21:20:21][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_core.zip
+[2022-01-11 21:20:21][notice]restore from files:["D:\\OpenServer\\domains\\auto\/wp-content\\wpvividbackups\\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_core.zip"]
+[2022-01-11 21:20:21][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_core.zip
+[2022-01-11 21:20:27][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_core.zip
+[2022-01-11 21:20:27][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_core.zip
+[2022-01-11 21:20:28][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_plugin.zip
+[2022-01-11 21:20:28][notice]restore from files:["D:\\OpenServer\\domains\\auto\/wp-content\\wpvividbackups\\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_plugin.zip"]
+[2022-01-11 21:20:28][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_plugin.zip
+[2022-01-11 21:20:29][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_plugin.zip
+[2022-01-11 21:20:29][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_plugin.zip
+[2022-01-11 21:20:30][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_themes.zip
+[2022-01-11 21:20:30][notice]restore from files:["D:\\OpenServer\\domains\\auto\/wp-content\\wpvividbackups\\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_themes.zip"]
+[2022-01-11 21:20:30][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_themes.zip
+[2022-01-11 21:20:30][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_themes.zip
+[2022-01-11 21:20:30][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_themes.zip
+[2022-01-11 21:20:31][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_content.zip
+[2022-01-11 21:20:31][notice]restore from files:["D:\\OpenServer\\domains\\auto\/wp-content\\wpvividbackups\\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_content.zip"]
+[2022-01-11 21:20:31][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_content.zip
+[2022-01-11 21:20:31][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_content.zip
+[2022-01-11 21:20:31][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_content.zip
+[2022-01-11 21:20:33][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_uploads.zip
+[2022-01-11 21:20:33][notice]restore from files:["D:\\OpenServer\\domains\\auto\/wp-content\\wpvividbackups\\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_uploads.zip"]
+[2022-01-11 21:20:33][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_uploads.zip
+[2022-01-11 21:20:33][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_uploads.zip
+[2022-01-11 21:20:33][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_uploads.zip
+[2022-01-11 21:20:34][notice]Start restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_db.zip
+[2022-01-11 21:20:34][notice]start extracting file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_db.zip
+[2022-01-11 21:20:34][notice]extract finished file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_db.zip
+[2022-01-11 21:20:34][notice]sql file: auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_db.sql
+[2022-01-11 21:20:34][Warning]wpdb
+[2022-01-11 21:20:34][notice]The test to create table succeeds.
+[2022-01-11 21:20:34][notice]The test to insert into table succeeds.
+[2022-01-11 21:20:34][notice]The test to drop table succeeds.
+[2022-01-11 21:20:34][notice]get max_allowed_packet wpdb 
+[2022-01-11 21:20:34][notice]Start import sql file.
+[2022-01-11 21:20:34][notice]old site url:http://auto
+[2022-01-11 21:20:34][notice]old home url:http://auto
+[2022-01-11 21:20:34][notice]old content url:http://auto/wp-content
+[2022-01-11 21:20:34][notice]old upload url:http://auto/wp-content/uploads
+[2022-01-11 21:20:34][notice]old site prefix:wp_
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_commentmeta
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_comments
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_links
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_options
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_postmeta
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_posts
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_term_relationships
+[2022-01-11 21:20:34][notice]Drop table if exist
+[2022-01-11 21:20:34][notice]Create table wp_term_taxonomy
+[2022-01-11 21:20:35][notice]Drop table if exist
+[2022-01-11 21:20:35][notice]Create table wp_termmeta
+[2022-01-11 21:20:35][notice]Drop table if exist
+[2022-01-11 21:20:35][notice]Create table wp_terms
+[2022-01-11 21:20:35][notice]Drop table if exist
+[2022-01-11 21:20:35][notice]Create table wp_usermeta
+[2022-01-11 21:20:35][notice]Drop table if exist
+[2022-01-11 21:20:35][notice]Create table wp_users
+[2022-01-11 21:20:35][notice]Drop table if exist
+[2022-01-11 21:20:35][notice]Create table wp_wpvivid_scan_result
+[2022-01-11 21:20:35][notice]Drop table if exist
+[2022-01-11 21:20:35][notice]Create table wp_wpvivid_unused_uploads_files
+[2022-01-11 21:20:35][notice]Finished restoring auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_db.zip
+[2022-01-11 21:20:36][notice]Restore task completed.
+[2022-01-11 21:20:37][notice]disable maintenance mode
+[2022-01-11 21:20:37][notice]clean file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_core.zip
+[2022-01-11 21:20:37][notice]clean file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_plugin.zip
+[2022-01-11 21:20:37][notice]clean file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_themes.zip
+[2022-01-11 21:20:37][notice]clean file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_content.zip
+[2022-01-11 21:20:37][notice]clean file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_uploads.zip
+[2022-01-11 21:20:37][notice]clean file:D:\OpenServer\domains\auto/wp-content\wpvividbackups\auto_wpvivid-61ddec8cd7982_2022-01-11-23-46_backup_db.zip
